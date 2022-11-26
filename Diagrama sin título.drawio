@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T04:40:50.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="BJS4s3WomLe3GlEpLpjU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T06:00:59.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="9zdza7q3_he2HUv2z9Ah" version="20.6.0" type="github">
   <diagram id="Mvv-CkHV8eBTjIygVmUQ" name="Página-1">
     <mxGraphModel dx="1375" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
           <mxGeometry x="950" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yURPwCpg9gICH0MFoex7-45" value="Realizar una orden" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="935" y="710" width="90" height="40" as="geometry" />
+          <mxGeometry x="932.5" y="710" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yURPwCpg9gICH0MFoex7-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yURPwCpg9gICH0MFoex7-41" target="yURPwCpg9gICH0MFoex7-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -302,13 +302,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yURPwCpg9gICH0MFoex7-47" value="Procesar orden" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="750" width="80" height="50" as="geometry" />
+          <mxGeometry x="1050" y="750" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yURPwCpg9gICH0MFoex7-49" value="Diagrama de Actividades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1135" y="545" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yURPwCpg9gICH0MFoex7-50" value="Diagrama de Colaboración" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1200" y="80" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yURPwCpg9gICH0MFoex7-51" value="Manejar petición" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yURPwCpg9gICH0MFoex7-52" value="Procesar orden" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="825" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yURPwCpg9gICH0MFoex7-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yURPwCpg9gICH0MFoex7-45" target="yURPwCpg9gICH0MFoex7-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="740" as="sourcePoint" />
+            <mxPoint x="1220" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yURPwCpg9gICH0MFoex7-54" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yURPwCpg9gICH0MFoex7-47" target="yURPwCpg9gICH0MFoex7-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1183.75" y="750" as="sourcePoint" />
+            <mxPoint x="1256.25" y="775" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

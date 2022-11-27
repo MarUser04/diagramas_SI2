@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T23:57:53.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Z0J6umBCsUK9EVhRkbTL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T00:01:44.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="22QVRyZ2ivJJNb0DTJfA" version="20.6.0" type="github">
   <diagram id="Mvv-CkHV8eBTjIygVmUQ" name="Página-1">
-    <mxGraphModel dx="5209" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3432" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1339,9 +1339,6 @@
         <mxCell id="yPejEaLQowCEv5QE1uj0-347" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1182.5" y="1435" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yPejEaLQowCEv5QE1uj0-348" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Diagrama de Estados&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-1310" y="1380" width="300" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="yPejEaLQowCEv5QE1uj0-349" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ordenes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-1242.5" y="1405" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1446,6 +1443,12 @@
             <mxPoint x="-805" y="2205" as="sourcePoint" />
             <mxPoint x="-894.9999999999991" y="2251" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yPejEaLQowCEv5QE1uj0-376" value="Diagrama de Secuencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="1190" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yPejEaLQowCEv5QE1uj0-377" value="Diagrama de Estados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="1350" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
